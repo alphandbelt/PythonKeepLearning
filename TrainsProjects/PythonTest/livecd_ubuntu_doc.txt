@@ -1,0 +1,71 @@
+sudo apt update
+sudo apt install squashfs-tools genisoimage syslinux debootstrap
+
+mkdir ~/livecd
+sudo debootstrap --arch=amd64 focal ~/livecd
+
+sudo mount --bind /dev ~/livecd/dev
+sudo mount --bind /dev/pts ~/livecd/dev/pts
+sudo mount -t proc proc ~/livecd/proc
+sudo mount -t sysfs sysfs ~/livecd/sys
+
+
+sudo chroot ~/livecd
+
+sudo mksquashfs ~/livecd ~/livecd.squashfs -e boot
+
+``````````````````````````````````````sudo genisoimage -o ~/livecd.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table ~/livecd
+``````````````````````````````````````
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+步骤 1：安装所需软件
+首先，你需要在你的 Ubuntu 机器上安装一些必要的软件，包括 Squashfs-tools（用于创建和解压 squashfs 文件系统）、Genisoimage（用于创建 ISO 镜像）和 Syslinux（用于启动 Linux）。
+
+在终端输入以下命令进行安装：
+
+sql
+Copy code
+sudo apt update
+sudo apt install squashfs-tools genisoimage syslinux
+步骤 2：准备一个chroot环境
+你需要创建一个 chroot 环境。这实际上是一个隔离的环境，你可以在其中制作你的 LiveCD。
+
+bash
+Copy code
+mkdir ~/livecd
+sudo debootstrap --arch=amd64 focal ~/livecd
+这里，我们使用 debootstrap 来安装一个基本的 Ubuntu 系统到 ~/livecd 目录。你可以更改 focal 为你希望安装的 Ubuntu 版本的代号。
+
+步骤 3：配置chroot环境
+你需要将 /proc、/dev、和 /sys 目录挂载到你的 chroot 环境中，这样你才能在 chroot 中访问它们。
+
+bash
+Copy code
+sudo mount --bind /dev ~/livecd/dev
+sudo mount --bind /dev/pts ~/livecd/dev/pts
+sudo mount -t proc proc ~/livecd/proc
+sudo mount -t sysfs sysfs ~/livecd/sys
+然后，你可以进入 chroot 环境：
+
+bash
+Copy code
+sudo chroot ~/livecd
+现在，你可以在 chroot 环境中安装你需要的任何额外软件。
+
+步骤 4：创建squashfs文件系统
+当你安装完所有需要的软件后，你可以退出 chroot 环境（使用 exit 命令），然后创建一个 squashfs 文件系统。
+
+bash
+Copy code
+sudo mksquashfs ~/livecd ~/livecd.squashfs -e boot
+这将创建一个名为 livecd.squashfs 的文件，其中包含你的 livecd 系统，但不包括 /boot 目录。
+
+步骤 5：创建iso镜像
+最后，你可以使用 genisoimage 来创建 ISO 镜像。
+
+bash
+Copy code
+sudo genisoimage -o ~/livecd.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-size 4 -boot-info-table ~/livecd
+这将创建一个名为 livecd.iso 的 ISO 镜像文件。
