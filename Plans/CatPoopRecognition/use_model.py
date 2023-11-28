@@ -31,7 +31,7 @@ def predict_image(model, img_path):
 
 
 # 图像文件路径
-img_path = 'test_mode3.jpg'
+img_path = 'test_model.png'
 
 # 进行预测
 prediction = predict_image(model, img_path)
