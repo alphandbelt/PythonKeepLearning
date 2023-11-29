@@ -1,0 +1,6 @@
+
+;python:S125+"Remove this commented out code.(«íÛÄúÿÿÿÿ
+¯python:S1515/"–Add a parameter to the parent lambda function and use variable "res" as its default value; The value of "res" might change at the next loop iteration.(¼¹¸š
+{python:S117u"_Rename this local variable "otherStyleTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(Âûˆÿÿÿÿÿ
+qpython:S117t"ZRename this local variable "timeArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğÌŠù
+6python:S125Ö"Remove this commented out code.(¯èä

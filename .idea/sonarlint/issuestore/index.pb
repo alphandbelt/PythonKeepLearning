@@ -1,0 +1,31 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+c
+3Plans/CatPoopRecognition/docs/数据集的标注.md,b\a\ba38ef69ea025c3ae8276033f10256e87de4eb31
+b
+2Plans/CatPoopRecognition/src/data_preprocessing.py,c\e\ce0ce74f0a9866365c9ce6aa916dbeec40d9b5c6
+X
+(Plans/CatPoopRecognition/src/__init__.py,5\4\54ccb9397840c7bba72bf33b60780ba504ab4e97
+W
+'Plans/CatPoopRecognition/steps/model.h5,b\6\b6983affdd9bda63dc32101f053c59bd931fb9e4
+\
+,Plans/CatPoopRecognition/steps/test_steps.py,1\6\162c5bc7ad7084b8f2fdd328ac5abfc8f4548079
+T
+$Plans/CatPoopRecognition/__init__.py,8\7\877bd625a096f79e4c579b492332d393704891a6
+e
+5Plans/CatPoopRecognition/steps/check_content_model.py,c\2\c28f02c51c1ba96f15872739f07dd541ce75025a
+]
+-Plans/CatPoopRecognition/steps/plot_models.py,3\0\3088d9b276ffc4b6d3b479451c27e1bcad961580
+P
+ Plans/CatPoopRecognition/main.py,f\5\f52c8e399337b455d08e1e0fb03d0844bcb2509e
+U
+%Plans/CatPoopRecognition/use_model.py,1\c\1c8e4097975c1bcda0e7f0c69d59908e12b1cc08
+R
+"TrainsProjects/PythonTest/danmu.py,d\3\d3c576e784150515b3793bc9f86dd663b38f1697
+d
+4Learning/PythonBasics/how_variables_contants_work.py,2\8\28f37a4f8a115700c8ceee1c742fc84eb4f20716
+Q
+!Learning/PythonBasics/networks.py,4\b\4b2d8049c3c1af1d8a84e337a3d584d1c406e542
+Y
+)TrainsProjects/ShowIpIcon/show_ip_icon.py,5\f\5f476ee113ef22713bf35130e15d4be709c6c54f
