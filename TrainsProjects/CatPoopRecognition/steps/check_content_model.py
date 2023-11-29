@@ -9,7 +9,7 @@
 import h5py
 
 # 读取模型文件
-model_file_path = './model.h5'  # 替换为实际的文件路径
+model_file_path = 'model.h5'  # 替换为实际的文件路径
 with h5py.File(model_file_path, 'r') as f:
     # 查看文件结构
     print("File structure:")

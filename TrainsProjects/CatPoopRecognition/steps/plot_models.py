@@ -31,7 +31,7 @@ from tensorflow.keras.utils import plot_model
 
 
 # 替换为您的模型路径
-model_path = './model.h5'
+model_path = 'model.h5'
 
 # 加载模型
 model = load_model(model_path)
