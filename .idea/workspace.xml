@@ -5,105 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12560267-a180-4089-96b7-026f7f0f0266" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plans/._venv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20030812/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20030812/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20030812/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20030812/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230702/目标计划.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230702/编程介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230703/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230703/文档.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230703/本次计划.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230704/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230704/计划.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230705/TODO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230705/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230706/TODO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230802/TODO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230802/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230803/TODO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230803/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230805/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230805/每周总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230807/TODO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230807/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/gt_widgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/mydatabase.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_charts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_core.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_opengl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_print_support.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/qt_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/20230808/web_engin_widgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/TDDO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/info_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/202320730/test9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plans/章节1-介绍.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TrainsProjects/TranslateTool/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/TrainsProjects/TranslateTool/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrainsProjects/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonKeepLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonKeepLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/cat_poop_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/cat_poop_model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/docs/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/docs/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/docs/数据集的标注.md" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/docs/数据集的标注.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/src/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/src/data_preprocessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/src/data_preprocessing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/check_content_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/check_content_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/model_plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/model_plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/plot_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/plot_models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/steps/test_steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/steps/test_steps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/test_mode3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/test_mode3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/test_mode_not.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/test_mode_not.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/test_model.png" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/test_model.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/test_model_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/test_model_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/test_models.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/test_models.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/cat_poop/IMG_7919.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/cat_poop/IMG_7919.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/cat_poop/IMG_7920.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/cat_poop/IMG_7920.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/cat_poop/IMG_7921.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/cat_poop/IMG_7921.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/cat_poop/IMG_7922.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/cat_poop/IMG_7922.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/cat_poop/IMG_7923.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/cat_poop/IMG_7923.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/not_cat_poop/IMG_7934.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/not_cat_poop/IMG_7934.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/not_cat_poop/IMG_7935.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/not_cat_poop/IMG_7935.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/not_cat_poop/IMG_7936.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/not_cat_poop/IMG_7936.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/not_cat_poop/IMG_7937.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/not_cat_poop/IMG_7937.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/training_data/not_cat_poop/IMG_7938.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/training_data/not_cat_poop/IMG_7938.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/use_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/use_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/cat_poop/IMG_7919.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/cat_poop/IMG_7919.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/cat_poop/IMG_7920.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/cat_poop/IMG_7920.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/cat_poop/IMG_7921.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/cat_poop/IMG_7921.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/cat_poop/IMG_7922.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/cat_poop/IMG_7922.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/cat_poop/IMG_7923.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/cat_poop/IMG_7923.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/not_cat_poop/IMG_7934.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/not_cat_poop/IMG_7934.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/not_cat_poop/IMG_7935.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/not_cat_poop/IMG_7935.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/not_cat_poop/IMG_7936.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/not_cat_poop/IMG_7936.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/not_cat_poop/IMG_7937.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/not_cat_poop/IMG_7937.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plans/CatPoopRecognition/validation_data/not_cat_poop/IMG_7938.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/CatPoopRecognition/validation_data/not_cat_poop/IMG_7938.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainsProjects/TranslateTool/Baidu_Text_transAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/TranslateTool/Baidu_Text_transAPI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainsProjects/TranslateTool/clipboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrainsProjects/TranslateTool/clipboard.py" afterDir="false" />
     </list>
@@ -282,7 +186,7 @@
       <workItem from="1701236787179" duration="9647000" />
       <workItem from="1701248244126" duration="64000" />
       <workItem from="1701250302092" duration="112000" />
-      <workItem from="1701261451644" duration="515000" />
+      <workItem from="1701261451644" duration="759000" />
     </task>
     <servers />
   </component>
